@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, my name is Adi
 
-<!--
-**adisk22/adisk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studying Statistics @ University of Waterloo · Security Engineering
 
-Here are some ideas to get you started:
+My work is in security tooling and I like understanding how systems work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm currently working on
+
+- Security Research in Agentic AI
+- A Firewall Policy Change Simulator
+
+
+### My Experience
+
+Security Engineering @ Mastercard Foundation (S26 + F26)
+Security Developer @ RBC (S25)
+Security Engineer @ Hatch (W25)
+
+### My Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+### Contact Me
+
+[LinkedIn](https://www.linkedin.com/in/adi-karkera-231659291/) · a2karker@uwaterloo.ca
