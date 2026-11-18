@@ -12,9 +12,9 @@ My work is in security tooling and I like understanding how systems work under t
 
 ### My Experience
 
-Security Engineering @ Mastercard Foundation (S26 + F26)
-Security Developer @ RBC (S25)
-Security Engineer @ Hatch (W25)
+- Security Engineering @ Mastercard Foundation (S26 + F26)
+- Security Developer @ RBC (S25)
+- Security Engineer @ Hatch (W25)
 
 ### My Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
